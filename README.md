@@ -8,7 +8,7 @@ A passionate and detail-oriented Backend Java Developer with hands-on experience
 
 ### 🛠️ Technical Skills
 
-**Languages:** Java 21, TypeScript, SQL
+**Languages:** Java, SQL, TypeScript
 
 **Backend & Frameworks:**
 - Spring Boot 3.x, Spring Security (JWT, OAuth2, Refresh Tokens, BCrypt)
